@@ -1,5 +1,5 @@
 <apex:page applyBodyTag="false" applyHtmlTag="false" standardStylesheets="false" showHeader="false">
-    <!-- JESUS TEST-->
+
     <apex:slds />
     
     <apex:remoteObjects >
